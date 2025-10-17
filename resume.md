@@ -1,1 +1,8 @@
-Hi! My name is Daniel, and I am a first year intent on majoring in computer science and game development. Currently I've made a few personal projects in C# as I learn how to use it before moving on to actual game engines.
+# Daniel Robinson's Resume
+
+## Education
+
+**Northeastern University**, Khoury College of Computer Sciences
+
+*Candidate: Bachelor of Science in Computer Science and Game Development*
+Boston, MA • Sep 2025 - May 2029
