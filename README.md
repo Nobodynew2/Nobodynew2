@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Daniel, and I'm currently trying to learn C#.
+My name is Daniel, and I'm currently making a game in Godot!
